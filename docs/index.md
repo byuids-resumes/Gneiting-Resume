@@ -5,6 +5,12 @@ title: Kelson Gneitings's Resume
 # Kelson Gneiting
 Student at BYUI, credit consultant with lextington law, and a hard worker with a positive atittude. 
 
+## Skills
+
+- Python with pandas, numpy, altair, and sklearn
+- lifeguarding
+- management
+
 ## Education
 
 `Jan 2018 - Dec 2020`
